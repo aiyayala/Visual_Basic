@@ -1,0 +1,11 @@
+c:\users\potato\documents\visual studio 2015\Projects\Banking\Banking\bin\Debug\Banking.exe.config
+c:\users\potato\documents\visual studio 2015\Projects\Banking\Banking\bin\Debug\Banking.exe
+c:\users\potato\documents\visual studio 2015\Projects\Banking\Banking\bin\Debug\Banking.pdb
+c:\users\potato\documents\visual studio 2015\Projects\Banking\Banking\bin\Debug\Banking.xml
+c:\users\potato\documents\visual studio 2015\Projects\Banking\Banking\obj\Debug\Banking.vbprojResolveAssemblyReference.cache
+c:\users\potato\documents\visual studio 2015\Projects\Banking\Banking\obj\Debug\Banking.Resources.resources
+c:\users\potato\documents\visual studio 2015\Projects\Banking\Banking\obj\Debug\Banking.vbproj.GenerateResource.Cache
+c:\users\potato\documents\visual studio 2015\Projects\Banking\Banking\obj\Debug\Banking.exe
+c:\users\potato\documents\visual studio 2015\Projects\Banking\Banking\obj\Debug\Banking.xml
+c:\users\potato\documents\visual studio 2015\Projects\Banking\Banking\obj\Debug\Banking.pdb
+C:\Users\Potato\documents\visual studio 2015\Projects\Banking\Banking\obj\Debug\Banking.frmMain.resources
