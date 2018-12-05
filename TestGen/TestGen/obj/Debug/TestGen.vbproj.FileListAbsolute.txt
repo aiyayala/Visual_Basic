@@ -1,0 +1,14 @@
+c:\users\potato\documents\visual studio 2015\Projects\TestGen\TestGen\bin\Debug\TestGen.exe.config
+c:\users\potato\documents\visual studio 2015\Projects\TestGen\TestGen\bin\Debug\TestGen.exe
+c:\users\potato\documents\visual studio 2015\Projects\TestGen\TestGen\bin\Debug\TestGen.pdb
+c:\users\potato\documents\visual studio 2015\Projects\TestGen\TestGen\bin\Debug\TestGen.xml
+c:\users\potato\documents\visual studio 2015\Projects\TestGen\TestGen\obj\Debug\TestGen.vbprojResolveAssemblyReference.cache
+c:\users\potato\documents\visual studio 2015\Projects\TestGen\TestGen\obj\Debug\TestGen.frmMain.resources
+c:\users\potato\documents\visual studio 2015\Projects\TestGen\TestGen\obj\Debug\TestGen.Resources.resources
+c:\users\potato\documents\visual studio 2015\Projects\TestGen\TestGen\obj\Debug\TestGen.vbproj.GenerateResource.Cache
+c:\users\potato\documents\visual studio 2015\Projects\TestGen\TestGen\obj\Debug\TestGen.exe
+c:\users\potato\documents\visual studio 2015\Projects\TestGen\TestGen\obj\Debug\TestGen.xml
+c:\users\potato\documents\visual studio 2015\Projects\TestGen\TestGen\obj\Debug\TestGen.pdb
+c:\users\potato\documents\visual studio 2015\Projects\TestGen\TestGen\obj\Debug\TestGen.frmSelect.resources
+c:\users\potato\documents\visual studio 2015\Projects\TestGen\TestGen\obj\Debug\TestGen.frmHint.resources
+c:\users\potato\documents\visual studio 2015\Projects\TestGen\TestGen\obj\Debug\TestGen.frmRecords.resources
